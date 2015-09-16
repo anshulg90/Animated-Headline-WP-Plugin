@@ -1,7 +1,6 @@
 # Animated Headline
 Super animation headline by using shortcode. Easy to use and look super animated headline.
 
-![Animated Headline]({{site.baseurl}}/http://plugins.svn.wordpress.org/animated-headline/assets/banner-772x250.jpg)
 
 ###Version
 1.5
@@ -33,10 +32,13 @@ Here you can select 10 type of animation effect for changing text effect. For mo
 
 
 ### Frequently Asked Questions
-1) How to Use ? =
-Use shortcode like [animated-headline title="Hello my friend" animated_text="Anshul,Rahul,Nisha" animation="clip"]
-and You will find 'Animated Headlines' under setting menu in your WordPress admin panel.
+How to Use ?
 
+Use shortcode like
+```sh
+[animated-headline title="Hello my friend" animated_text="Anshul,Rahul,Nisha" animation="clip"]
+```
+and You will find 'Animated Headlines' under setting menu in your WordPress admin panel.
 
 ### Changelog
 - 1.0 Initial Release.
